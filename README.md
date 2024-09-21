@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anon E-commerce Website
 
 Welcome to the Anon E-commerce platform, a vibrant and user-friendly online store designed for showcasing a variety of products ranging from accessories to apparel. This is a frontend-only project, built as a demonstration of a modern e-commerce website interface.
@@ -34,3 +35,7 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/r-sitamusahau/anon-ecommerce-website-master.git
+=======
+# anon-ecommerce-website-master
+this is anon-ecommerce-website created using html,css and javascript
+>>>>>>> 6635e1f6da18ea15340ed95618a6a2b7a6b22807
